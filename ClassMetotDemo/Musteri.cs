@@ -8,7 +8,7 @@ namespace ClassMetotDemo
     {
         public int musteriId { get; set; }
         public string musteriAdi{ get; set; }        
-        public string musteriSoyadi { get; set; }    
-
+        public string musteriSoyadi { get; set; }
+        public int musteriBakiye { get; set; }
     }
 }
